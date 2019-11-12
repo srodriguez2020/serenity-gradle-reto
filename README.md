@@ -17,7 +17,7 @@ Ejecute los siguiente comando en una consola GIT
 ##### Descargar project:
 .
 ```sh
-$ git clone git@bitbucket.org:Permafrost_666/serenity-gradle-reto.git
+$ git clone https://github.com/srodriguez2020/serenity-gradle-reto.git
 $ cd serenity-gradle-reto
 ```
 ##### Ejecutar project
